@@ -1,0 +1,1 @@
+use ftgl on xcode
